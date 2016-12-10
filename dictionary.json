@@ -1,1 +1,1 @@
-{"name":"mef","display_name":"mef","owner":"gonzalov9","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"584c190d0bca7612007af012"}
+{"name":"mef","display_name":"mef","owner":"gonzalov9","auth_method":"API Key","auth_options":{"api_key_parameter":"603bb57757a6c9b61fb49526c4288dc9eaff57fc"},"paging_method":"Supplied URL","paging_options":{},"tables":[],"id":"584c190d0bca7612007af012"}
